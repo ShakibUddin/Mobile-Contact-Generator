@@ -5,6 +5,6 @@ It is a simple C++ console application that generates unique mobile numbers as m
 3.A txt file will be created where you have downloaded the code.
 4.Done.
 
-#Things I learned
+# Things I Learned
 1.C++ file handling.
 2.C++ string manipulation.
